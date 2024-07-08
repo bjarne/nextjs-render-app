@@ -7,10 +7,6 @@ export default function Home() {
       <Link href="/about">
         About this page
       </Link>
-      {" "}
-      <Link href="/questions">
-        Take the questionnaire
-      </Link>
     </div>
   );
 }
